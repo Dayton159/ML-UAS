@@ -1,0 +1,2641 @@
+age;gender;genre;suggested
+1;male;Fantasy;Yes
+2;male;Fantasy;Yes
+3;male;Fantasy;Yes
+4;male;Fantasy;Yes
+5;male;Fantasy;Yes
+6;male;Fantasy;Yes
+7;male;Fantasy;Yes
+8;male;Fantasy;Yes
+9;male;Fantasy;Yes
+10;male;Fantasy;Yes
+11;male;Fantasy;Yes
+12;male;Fantasy;Yes
+13;male;Fantasy;Yes
+14;male;Fantasy;Yes
+1;male;Adventure;Yes
+2;male;Adventure;Yes
+3;male;Adventure;Yes
+4;male;Adventure;Yes
+5;male;Adventure;Yes
+6;male;Adventure;Yes
+7;male;Adventure;Yes
+8;male;Adventure;Yes
+9;male;Adventure;Yes
+10;male;Adventure;Yes
+11;male;Adventure;Yes
+12;male;Adventure;Yes
+13;male;Adventure;Yes
+14;male;Adventure;Yes
+1;male;Romance;No
+2;male;Romance;No
+3;male;Romance;No
+4;male;Romance;No
+5;male;Romance;No
+6;male;Romance;No
+7;male;Romance;No
+8;male;Romance;No
+9;male;Romance;No
+10;male;Romance;No
+11;male;Romance;No
+12;male;Romance;No
+13;male;Romance;No
+14;male;Romance;No
+1;male;Contemporary;No
+2;male;Contemporary;No
+3;male;Contemporary;No
+4;male;Contemporary;No
+5;male;Contemporary;No
+6;male;Contemporary;No
+7;male;Contemporary;No
+8;male;Contemporary;No
+9;male;Contemporary;No
+10;male;Contemporary;No
+11;male;Contemporary;No
+12;male;Contemporary;No
+13;male;Contemporary;No
+14;male;Contemporary;No
+1;male;Dystopian;No
+2;male;Dystopian;No
+3;male;Dystopian;No
+4;male;Dystopian;No
+5;male;Dystopian;No
+6;male;Dystopian;No
+7;male;Dystopian;No
+8;male;Dystopian;No
+9;male;Dystopian;No
+10;male;Dystopian;No
+11;male;Dystopian;No
+12;male;Dystopian;No
+13;male;Dystopian;No
+14;male;Dystopian;No
+1;male;Mystery;No
+2;male;Mystery;No
+3;male;Mystery;No
+4;male;Mystery;No
+5;male;Mystery;No
+6;male;Mystery;No
+7;male;Mystery;No
+8;male;Mystery;No
+9;male;Mystery;No
+10;male;Mystery;No
+11;male;Mystery;No
+12;male;Mystery;No
+13;male;Mystery;No
+14;male;Mystery;No
+1;male;Horror;No
+2;male;Horror;No
+3;male;Horror;No
+4;male;Horror;No
+5;male;Horror;No
+6;male;Horror;No
+7;male;Horror;No
+8;male;Horror;No
+9;male;Horror;No
+10;male;Horror;No
+11;male;Horror;No
+12;male;Horror;No
+13;male;Horror;No
+14;male;Horror;No
+1;male;Thriller;No
+2;male;Thriller;No
+3;male;Thriller;No
+4;male;Thriller;No
+5;male;Thriller;No
+6;male;Thriller;No
+7;male;Thriller;No
+8;male;Thriller;No
+9;male;Thriller;No
+10;male;Thriller;No
+11;male;Thriller;No
+12;male;Thriller;No
+13;male;Thriller;No
+14;male;Thriller;No
+1;male;Paranormal;No
+2;male;Paranormal;No
+3;male;Paranormal;No
+4;male;Paranormal;No
+5;male;Paranormal;No
+6;male;Paranormal;No
+7;male;Paranormal;No
+8;male;Paranormal;No
+9;male;Paranormal;No
+10;male;Paranormal;No
+11;male;Paranormal;No
+12;male;Paranormal;No
+13;male;Paranormal;No
+14;male;Paranormal;No
+1;male;Historical fiction;No
+2;male;Historical fiction;No
+3;male;Historical fiction;No
+4;male;Historical fiction;No
+5;male;Historical fiction;No
+6;male;Historical fiction;No
+7;male;Historical fiction;No
+8;male;Historical fiction;No
+9;male;Historical fiction;No
+10;male;Historical fiction;No
+11;male;Historical fiction;No
+12;male;Historical fiction;No
+13;male;Historical fiction;No
+14;male;Historical fiction;No
+1;male;Science Fiction;Yes
+2;male;Science Fiction;Yes
+3;male;Science Fiction;Yes
+4;male;Science Fiction;Yes
+5;male;Science Fiction;Yes
+6;male;Science Fiction;Yes
+7;male;Science Fiction;Yes
+8;male;Science Fiction;Yes
+9;male;Science Fiction;Yes
+10;male;Science Fiction;Yes
+11;male;Science Fiction;Yes
+12;male;Science Fiction;Yes
+13;male;Science Fiction;Yes
+14;male;Science Fiction;Yes
+1;male;Memoir;No
+2;male;Memoir;No
+3;male;Memoir;No
+4;male;Memoir;No
+5;male;Memoir;No
+6;male;Memoir;No
+7;male;Memoir;No
+8;male;Memoir;No
+9;male;Memoir;No
+10;male;Memoir;No
+11;male;Memoir;No
+12;male;Memoir;No
+13;male;Memoir;No
+14;male;Memoir;No
+1;male;Cooking;No
+2;male;Cooking;No
+3;male;Cooking;No
+4;male;Cooking;No
+5;male;Cooking;No
+6;male;Cooking;No
+7;male;Cooking;No
+8;male;Cooking;No
+9;male;Cooking;No
+10;male;Cooking;No
+11;male;Cooking;No
+12;male;Cooking;No
+13;male;Cooking;No
+14;male;Cooking;No
+1;male;Art;Yes
+2;male;Art;Yes
+3;male;Art;Yes
+4;male;Art;Yes
+5;male;Art;Yes
+6;male;Art;Yes
+7;male;Art;Yes
+8;male;Art;Yes
+9;male;Art;Yes
+10;male;Art;Yes
+11;male;Art;Yes
+12;male;Art;Yes
+13;male;Art;Yes
+14;male;Art;Yes
+1;male;Self-help / Personal;Yes
+2;male;Self-help / Personal;Yes
+3;male;Self-help / Personal;Yes
+4;male;Self-help / Personal;Yes
+5;male;Self-help / Personal;Yes
+6;male;Self-help / Personal;Yes
+7;male;Self-help / Personal;Yes
+8;male;Self-help / Personal;Yes
+9;male;Self-help / Personal;Yes
+10;male;Self-help / Personal;Yes
+11;male;Self-help / Personal;Yes
+12;male;Self-help / Personal;Yes
+13;male;Self-help / Personal;Yes
+14;male;Self-help / Personal;Yes
+1;male;Development;No
+2;male;Development;No
+3;male;Development;No
+4;male;Development;No
+5;male;Development;No
+6;male;Development;No
+7;male;Development;No
+8;male;Development;No
+9;male;Development;No
+10;male;Development;No
+11;male;Development;No
+12;male;Development;No
+13;male;Development;No
+14;male;Development;No
+1;male;Motivational;Yes
+2;male;Motivational;Yes
+3;male;Motivational;Yes
+4;male;Motivational;Yes
+5;male;Motivational;Yes
+6;male;Motivational;Yes
+7;male;Motivational;Yes
+8;male;Motivational;Yes
+9;male;Motivational;Yes
+10;male;Motivational;Yes
+11;male;Motivational;Yes
+12;male;Motivational;Yes
+13;male;Motivational;Yes
+14;male;Motivational;Yes
+1;male;Health;Yes
+2;male;Health;Yes
+3;male;Health;Yes
+4;male;Health;Yes
+5;male;Health;Yes
+6;male;Health;Yes
+7;male;Health;Yes
+8;male;Health;Yes
+9;male;Health;Yes
+10;male;Health;Yes
+11;male;Health;Yes
+12;male;Health;Yes
+13;male;Health;Yes
+14;male;Health;Yes
+1;male;History;Yes
+2;male;History;Yes
+3;male;History;Yes
+4;male;History;Yes
+5;male;History;Yes
+6;male;History;Yes
+7;male;History;Yes
+8;male;History;Yes
+9;male;History;Yes
+10;male;History;Yes
+11;male;History;Yes
+12;male;History;Yes
+13;male;History;Yes
+14;male;History;Yes
+1;male;Travel;No
+2;male;Travel;No
+3;male;Travel;No
+4;male;Travel;No
+5;male;Travel;No
+6;male;Travel;No
+7;male;Travel;No
+8;male;Travel;No
+9;male;Travel;No
+10;male;Travel;No
+11;male;Travel;No
+12;male;Travel;No
+13;male;Travel;No
+14;male;Travel;No
+1;male;Guide / How-to;Yes
+2;male;Guide / How-to;Yes
+3;male;Guide / How-to;Yes
+4;male;Guide / How-to;Yes
+5;male;Guide / How-to;Yes
+6;male;Guide / How-to;Yes
+7;male;Guide / How-to;Yes
+8;male;Guide / How-to;Yes
+9;male;Guide / How-to;Yes
+10;male;Guide / How-to;Yes
+11;male;Guide / How-to;Yes
+12;male;Guide / How-to;Yes
+13;male;Guide / How-to;Yes
+14;male;Guide / How-to;Yes
+1;male;Families & Relationships;No
+2;male;Families & Relationships;No
+3;male;Families & Relationships;No
+4;male;Families & Relationships;No
+5;male;Families & Relationships;No
+6;male;Families & Relationships;No
+7;male;Families & Relationships;No
+8;male;Families & Relationships;No
+9;male;Families & Relationships;No
+10;male;Families & Relationships;No
+11;male;Families & Relationships;No
+12;male;Families & Relationships;No
+13;male;Families & Relationships;No
+14;male;Families & Relationships;No
+1;male;Humor;Yes
+2;male;Humor;Yes
+3;male;Humor;Yes
+4;male;Humor;Yes
+5;male;Humor;Yes
+6;male;Humor;Yes
+7;male;Humor;Yes
+8;male;Humor;Yes
+9;male;Humor;Yes
+10;male;Humor;Yes
+11;male;Humor;Yes
+12;male;Humor;Yes
+13;male;Humor;Yes
+14;male;Humor;Yes
+1;male;Children’s;Yes
+2;male;Children’s;Yes
+3;male;Children’s;Yes
+4;male;Children’s;Yes
+5;male;Children’s;Yes
+6;male;Children’s;Yes
+7;male;Children’s;Yes
+8;male;Children’s;Yes
+9;male;Children’s;Yes
+10;male;Children’s;Yes
+11;male;Children’s;Yes
+12;male;Children’s;Yes
+13;male;Children’s;Yes
+14;male;Children’s;Yes
+1;female;Fantasy;Yes
+2;female;Fantasy;Yes
+3;female;Fantasy;Yes
+4;female;Fantasy;Yes
+5;female;Fantasy;Yes
+6;female;Fantasy;Yes
+7;female;Fantasy;Yes
+8;female;Fantasy;Yes
+9;female;Fantasy;Yes
+10;female;Fantasy;Yes
+11;female;Fantasy;Yes
+12;female;Fantasy;Yes
+13;female;Fantasy;Yes
+14;female;Fantasy;Yes
+1;female;Adventure;Yes
+2;female;Adventure;Yes
+3;female;Adventure;Yes
+4;female;Adventure;Yes
+5;female;Adventure;Yes
+6;female;Adventure;Yes
+7;female;Adventure;Yes
+8;female;Adventure;Yes
+9;female;Adventure;Yes
+10;female;Adventure;Yes
+11;female;Adventure;Yes
+12;female;Adventure;Yes
+13;female;Adventure;Yes
+14;female;Adventure;Yes
+1;female;Romance;No
+2;female;Romance;No
+3;female;Romance;No
+4;female;Romance;No
+5;female;Romance;No
+6;female;Romance;No
+7;female;Romance;No
+8;female;Romance;No
+9;female;Romance;No
+10;female;Romance;No
+11;female;Romance;No
+12;female;Romance;No
+13;female;Romance;No
+14;female;Romance;No
+1;female;Contemporary;No
+2;female;Contemporary;No
+3;female;Contemporary;No
+4;female;Contemporary;No
+5;female;Contemporary;No
+6;female;Contemporary;No
+7;female;Contemporary;No
+8;female;Contemporary;No
+9;female;Contemporary;No
+10;female;Contemporary;No
+11;female;Contemporary;No
+12;female;Contemporary;No
+13;female;Contemporary;No
+14;female;Contemporary;No
+1;female;Dystopian;No
+2;female;Dystopian;No
+3;female;Dystopian;No
+4;female;Dystopian;No
+5;female;Dystopian;No
+6;female;Dystopian;No
+7;female;Dystopian;No
+8;female;Dystopian;No
+9;female;Dystopian;No
+10;female;Dystopian;No
+11;female;Dystopian;No
+12;female;Dystopian;No
+13;female;Dystopian;No
+14;female;Dystopian;No
+1;female;Mystery;No
+2;female;Mystery;No
+3;female;Mystery;No
+4;female;Mystery;No
+5;female;Mystery;No
+6;female;Mystery;No
+7;female;Mystery;No
+8;female;Mystery;No
+9;female;Mystery;No
+10;female;Mystery;No
+11;female;Mystery;No
+12;female;Mystery;No
+13;female;Mystery;No
+14;female;Mystery;No
+1;female;Horror;No
+2;female;Horror;No
+3;female;Horror;No
+4;female;Horror;No
+5;female;Horror;No
+6;female;Horror;No
+7;female;Horror;No
+8;female;Horror;No
+9;female;Horror;No
+10;female;Horror;No
+11;female;Horror;No
+12;female;Horror;No
+13;female;Horror;No
+14;female;Horror;No
+1;female;Thriller;No
+2;female;Thriller;No
+3;female;Thriller;No
+4;female;Thriller;No
+5;female;Thriller;No
+6;female;Thriller;No
+7;female;Thriller;No
+8;female;Thriller;No
+9;female;Thriller;No
+10;female;Thriller;No
+11;female;Thriller;No
+12;female;Thriller;No
+13;female;Thriller;No
+14;female;Thriller;No
+1;female;Paranormal;No
+2;female;Paranormal;No
+3;female;Paranormal;No
+4;female;Paranormal;No
+5;female;Paranormal;No
+6;female;Paranormal;No
+7;female;Paranormal;No
+8;female;Paranormal;No
+9;female;Paranormal;No
+10;female;Paranormal;No
+11;female;Paranormal;No
+12;female;Paranormal;No
+13;female;Paranormal;No
+14;female;Paranormal;No
+1;female;Historical fiction;No
+2;female;Historical fiction;No
+3;female;Historical fiction;No
+4;female;Historical fiction;No
+5;female;Historical fiction;No
+6;female;Historical fiction;No
+7;female;Historical fiction;No
+8;female;Historical fiction;No
+9;female;Historical fiction;No
+10;female;Historical fiction;No
+11;female;Historical fiction;No
+12;female;Historical fiction;No
+13;female;Historical fiction;No
+14;female;Historical fiction;No
+1;female;Science Fiction;Yes
+2;female;Science Fiction;Yes
+3;female;Science Fiction;Yes
+4;female;Science Fiction;Yes
+5;female;Science Fiction;Yes
+6;female;Science Fiction;Yes
+7;female;Science Fiction;Yes
+8;female;Science Fiction;Yes
+9;female;Science Fiction;Yes
+10;female;Science Fiction;Yes
+11;female;Science Fiction;Yes
+12;female;Science Fiction;Yes
+13;female;Science Fiction;Yes
+14;female;Science Fiction;Yes
+1;female;Memoir;No
+2;female;Memoir;No
+3;female;Memoir;No
+4;female;Memoir;No
+5;female;Memoir;No
+6;female;Memoir;No
+7;female;Memoir;No
+8;female;Memoir;No
+9;female;Memoir;No
+10;female;Memoir;No
+11;female;Memoir;No
+12;female;Memoir;No
+13;female;Memoir;No
+14;female;Memoir;No
+1;female;Cooking;Yes
+2;female;Cooking;Yes
+3;female;Cooking;Yes
+4;female;Cooking;Yes
+5;female;Cooking;Yes
+6;female;Cooking;Yes
+7;female;Cooking;Yes
+8;female;Cooking;Yes
+9;female;Cooking;Yes
+10;female;Cooking;Yes
+11;female;Cooking;Yes
+12;female;Cooking;Yes
+13;female;Cooking;Yes
+14;female;Cooking;Yes
+1;female;Art;Yes
+2;female;Art;Yes
+3;female;Art;Yes
+4;female;Art;Yes
+5;female;Art;Yes
+6;female;Art;Yes
+7;female;Art;Yes
+8;female;Art;Yes
+9;female;Art;Yes
+10;female;Art;Yes
+11;female;Art;Yes
+12;female;Art;Yes
+13;female;Art;Yes
+14;female;Art;Yes
+1;female;Self-help / Personal;Yes
+2;female;Self-help / Personal;Yes
+3;female;Self-help / Personal;Yes
+4;female;Self-help / Personal;Yes
+5;female;Self-help / Personal;Yes
+6;female;Self-help / Personal;Yes
+7;female;Self-help / Personal;Yes
+8;female;Self-help / Personal;Yes
+9;female;Self-help / Personal;Yes
+10;female;Self-help / Personal;Yes
+11;female;Self-help / Personal;Yes
+12;female;Self-help / Personal;Yes
+13;female;Self-help / Personal;Yes
+14;female;Self-help / Personal;Yes
+1;female;Development;No
+2;female;Development;No
+3;female;Development;No
+4;female;Development;No
+5;female;Development;No
+6;female;Development;No
+7;female;Development;No
+8;female;Development;No
+9;female;Development;No
+10;female;Development;No
+11;female;Development;No
+12;female;Development;No
+13;female;Development;No
+14;female;Development;No
+1;female;Motivational;Yes
+2;female;Motivational;Yes
+3;female;Motivational;Yes
+4;female;Motivational;Yes
+5;female;Motivational;Yes
+6;female;Motivational;Yes
+7;female;Motivational;Yes
+8;female;Motivational;Yes
+9;female;Motivational;Yes
+10;female;Motivational;Yes
+11;female;Motivational;Yes
+12;female;Motivational;Yes
+13;female;Motivational;Yes
+14;female;Motivational;Yes
+1;female;Health;Yes
+2;female;Health;Yes
+3;female;Health;Yes
+4;female;Health;Yes
+5;female;Health;Yes
+6;female;Health;Yes
+7;female;Health;Yes
+8;female;Health;Yes
+9;female;Health;Yes
+10;female;Health;Yes
+11;female;Health;Yes
+12;female;Health;Yes
+13;female;Health;Yes
+14;female;Health;Yes
+1;female;History;Yes
+2;female;History;Yes
+3;female;History;Yes
+4;female;History;Yes
+5;female;History;Yes
+6;female;History;Yes
+7;female;History;Yes
+8;female;History;Yes
+9;female;History;Yes
+10;female;History;Yes
+11;female;History;Yes
+12;female;History;Yes
+13;female;History;Yes
+14;female;History;Yes
+1;female;Travel;No
+2;female;Travel;No
+3;female;Travel;No
+4;female;Travel;No
+5;female;Travel;No
+6;female;Travel;No
+7;female;Travel;No
+8;female;Travel;No
+9;female;Travel;No
+10;female;Travel;No
+11;female;Travel;No
+12;female;Travel;No
+13;female;Travel;No
+14;female;Travel;No
+1;female;Guide / How-to;Yes
+2;female;Guide / How-to;Yes
+3;female;Guide / How-to;Yes
+4;female;Guide / How-to;Yes
+5;female;Guide / How-to;Yes
+6;female;Guide / How-to;Yes
+7;female;Guide / How-to;Yes
+8;female;Guide / How-to;Yes
+9;female;Guide / How-to;Yes
+10;female;Guide / How-to;Yes
+11;female;Guide / How-to;Yes
+12;female;Guide / How-to;Yes
+13;female;Guide / How-to;Yes
+14;female;Guide / How-to;Yes
+1;female;Families & Relationships;No
+2;female;Families & Relationships;No
+3;female;Families & Relationships;No
+4;female;Families & Relationships;No
+5;female;Families & Relationships;No
+6;female;Families & Relationships;No
+7;female;Families & Relationships;No
+8;female;Families & Relationships;No
+9;female;Families & Relationships;No
+10;female;Families & Relationships;No
+11;female;Families & Relationships;No
+12;female;Families & Relationships;No
+13;female;Families & Relationships;No
+14;female;Families & Relationships;No
+1;female;Humor;Yes
+2;female;Humor;Yes
+3;female;Humor;Yes
+4;female;Humor;Yes
+5;female;Humor;Yes
+6;female;Humor;Yes
+7;female;Humor;Yes
+8;female;Humor;Yes
+9;female;Humor;Yes
+10;female;Humor;Yes
+11;female;Humor;Yes
+12;female;Humor;Yes
+13;female;Humor;Yes
+14;female;Humor;Yes
+1;female;Children’s;Yes
+2;female;Children’s;Yes
+3;female;Children’s;Yes
+4;female;Children’s;Yes
+5;female;Children’s;Yes
+6;female;Children’s;Yes
+7;female;Children’s;Yes
+8;female;Children’s;Yes
+9;female;Children’s;Yes
+10;female;Children’s;Yes
+11;female;Children’s;Yes
+12;female;Children’s;Yes
+13;female;Children’s;Yes
+14;female;Children’s;Yes
+15;male;Fantasy;Yes
+16;male;Fantasy;Yes
+17;male;Fantasy;Yes
+18;male;Fantasy;Yes
+19;male;Fantasy;Yes
+20;male;Fantasy;Yes
+21;male;Fantasy;Yes
+22;male;Fantasy;Yes
+23;male;Fantasy;Yes
+24;male;Fantasy;Yes
+25;male;Fantasy;Yes
+26;male;Fantasy;Yes
+27;male;Fantasy;Yes
+28;male;Fantasy;Yes
+29;male;Fantasy;Yes
+30;male;Fantasy;Yes
+31;male;Fantasy;Yes
+32;male;Fantasy;Yes
+33;male;Fantasy;Yes
+34;male;Fantasy;Yes
+35;male;Fantasy;Yes
+36;male;Fantasy;Yes
+37;male;Fantasy;Yes
+38;male;Fantasy;Yes
+39;male;Fantasy;Yes
+40;male;Fantasy;Yes
+41;male;Fantasy;Yes
+42;male;Fantasy;Yes
+43;male;Fantasy;Yes
+44;male;Fantasy;Yes
+45;male;Fantasy;Yes
+15;male;Adventure;Yes
+16;male;Adventure;Yes
+17;male;Adventure;Yes
+18;male;Adventure;Yes
+19;male;Adventure;Yes
+20;male;Adventure;Yes
+21;male;Adventure;Yes
+22;male;Adventure;Yes
+23;male;Adventure;Yes
+24;male;Adventure;Yes
+25;male;Adventure;Yes
+26;male;Adventure;Yes
+27;male;Adventure;Yes
+28;male;Adventure;Yes
+29;male;Adventure;Yes
+30;male;Adventure;Yes
+31;male;Adventure;Yes
+32;male;Adventure;Yes
+33;male;Adventure;Yes
+34;male;Adventure;Yes
+35;male;Adventure;Yes
+36;male;Adventure;Yes
+37;male;Adventure;Yes
+38;male;Adventure;Yes
+39;male;Adventure;Yes
+40;male;Adventure;Yes
+41;male;Adventure;Yes
+42;male;Adventure;Yes
+43;male;Adventure;Yes
+44;male;Adventure;Yes
+45;male;Adventure;Yes
+15;male;Romance;Yes
+16;male;Romance;Yes
+17;male;Romance;Yes
+18;male;Romance;Yes
+19;male;Romance;Yes
+20;male;Romance;Yes
+21;male;Romance;Yes
+22;male;Romance;Yes
+23;male;Romance;Yes
+24;male;Romance;Yes
+25;male;Romance;Yes
+26;male;Romance;Yes
+27;male;Romance;Yes
+28;male;Romance;Yes
+29;male;Romance;Yes
+30;male;Romance;Yes
+31;male;Romance;Yes
+32;male;Romance;Yes
+33;male;Romance;Yes
+34;male;Romance;Yes
+35;male;Romance;Yes
+36;male;Romance;Yes
+37;male;Romance;Yes
+38;male;Romance;Yes
+39;male;Romance;Yes
+40;male;Romance;Yes
+41;male;Romance;Yes
+42;male;Romance;Yes
+43;male;Romance;Yes
+44;male;Romance;Yes
+45;male;Romance;Yes
+15;male;Contemporary;Yes
+16;male;Contemporary;Yes
+17;male;Contemporary;Yes
+18;male;Contemporary;Yes
+19;male;Contemporary;Yes
+20;male;Contemporary;Yes
+21;male;Contemporary;Yes
+22;male;Contemporary;Yes
+23;male;Contemporary;Yes
+24;male;Contemporary;Yes
+25;male;Contemporary;Yes
+26;male;Contemporary;Yes
+27;male;Contemporary;Yes
+28;male;Contemporary;Yes
+29;male;Contemporary;Yes
+30;male;Contemporary;Yes
+31;male;Contemporary;Yes
+32;male;Contemporary;Yes
+33;male;Contemporary;Yes
+34;male;Contemporary;Yes
+35;male;Contemporary;Yes
+36;male;Contemporary;Yes
+37;male;Contemporary;Yes
+38;male;Contemporary;Yes
+39;male;Contemporary;Yes
+40;male;Contemporary;Yes
+41;male;Contemporary;Yes
+42;male;Contemporary;Yes
+43;male;Contemporary;Yes
+44;male;Contemporary;Yes
+45;male;Contemporary;Yes
+15;male;Dystopian;Yes
+16;male;Dystopian;Yes
+17;male;Dystopian;Yes
+18;male;Dystopian;Yes
+19;male;Dystopian;Yes
+20;male;Dystopian;Yes
+21;male;Dystopian;Yes
+22;male;Dystopian;Yes
+23;male;Dystopian;Yes
+24;male;Dystopian;Yes
+25;male;Dystopian;Yes
+26;male;Dystopian;Yes
+27;male;Dystopian;Yes
+28;male;Dystopian;Yes
+29;male;Dystopian;Yes
+30;male;Dystopian;Yes
+31;male;Dystopian;Yes
+32;male;Dystopian;Yes
+33;male;Dystopian;Yes
+34;male;Dystopian;Yes
+35;male;Dystopian;Yes
+36;male;Dystopian;Yes
+37;male;Dystopian;Yes
+38;male;Dystopian;Yes
+39;male;Dystopian;Yes
+40;male;Dystopian;Yes
+41;male;Dystopian;Yes
+42;male;Dystopian;Yes
+43;male;Dystopian;Yes
+44;male;Dystopian;Yes
+45;male;Dystopian;Yes
+15;male;Mystery;Yes
+16;male;Mystery;Yes
+17;male;Mystery;Yes
+18;male;Mystery;Yes
+19;male;Mystery;Yes
+20;male;Mystery;Yes
+21;male;Mystery;Yes
+22;male;Mystery;Yes
+23;male;Mystery;Yes
+24;male;Mystery;Yes
+25;male;Mystery;Yes
+26;male;Mystery;Yes
+27;male;Mystery;Yes
+28;male;Mystery;Yes
+29;male;Mystery;Yes
+30;male;Mystery;Yes
+31;male;Mystery;Yes
+32;male;Mystery;Yes
+33;male;Mystery;Yes
+34;male;Mystery;Yes
+35;male;Mystery;Yes
+36;male;Mystery;Yes
+37;male;Mystery;Yes
+38;male;Mystery;Yes
+39;male;Mystery;Yes
+40;male;Mystery;Yes
+41;male;Mystery;Yes
+42;male;Mystery;Yes
+43;male;Mystery;Yes
+44;male;Mystery;Yes
+45;male;Mystery;Yes
+15;male;Horror;Yes
+16;male;Horror;Yes
+17;male;Horror;Yes
+18;male;Horror;Yes
+19;male;Horror;Yes
+20;male;Horror;Yes
+21;male;Horror;Yes
+22;male;Horror;Yes
+23;male;Horror;Yes
+24;male;Horror;Yes
+25;male;Horror;Yes
+26;male;Horror;Yes
+27;male;Horror;Yes
+28;male;Horror;Yes
+29;male;Horror;Yes
+30;male;Horror;Yes
+31;male;Horror;Yes
+32;male;Horror;Yes
+33;male;Horror;Yes
+34;male;Horror;Yes
+35;male;Horror;Yes
+36;male;Horror;Yes
+37;male;Horror;Yes
+38;male;Horror;Yes
+39;male;Horror;Yes
+40;male;Horror;Yes
+41;male;Horror;Yes
+42;male;Horror;Yes
+43;male;Horror;Yes
+44;male;Horror;Yes
+45;male;Horror;Yes
+15;male;Thriller;Yes
+16;male;Thriller;Yes
+17;male;Thriller;Yes
+18;male;Thriller;Yes
+19;male;Thriller;Yes
+20;male;Thriller;Yes
+21;male;Thriller;Yes
+22;male;Thriller;Yes
+23;male;Thriller;Yes
+24;male;Thriller;Yes
+25;male;Thriller;Yes
+26;male;Thriller;Yes
+27;male;Thriller;Yes
+28;male;Thriller;Yes
+29;male;Thriller;Yes
+30;male;Thriller;Yes
+31;male;Thriller;Yes
+32;male;Thriller;Yes
+33;male;Thriller;Yes
+34;male;Thriller;Yes
+35;male;Thriller;Yes
+36;male;Thriller;Yes
+37;male;Thriller;Yes
+38;male;Thriller;Yes
+39;male;Thriller;Yes
+40;male;Thriller;Yes
+41;male;Thriller;Yes
+42;male;Thriller;Yes
+43;male;Thriller;Yes
+44;male;Thriller;Yes
+45;male;Thriller;Yes
+15;male;Paranormal;Yes
+16;male;Paranormal;Yes
+17;male;Paranormal;Yes
+18;male;Paranormal;Yes
+19;male;Paranormal;Yes
+20;male;Paranormal;Yes
+21;male;Paranormal;Yes
+22;male;Paranormal;Yes
+23;male;Paranormal;Yes
+24;male;Paranormal;Yes
+25;male;Paranormal;Yes
+26;male;Paranormal;Yes
+27;male;Paranormal;Yes
+28;male;Paranormal;Yes
+29;male;Paranormal;Yes
+30;male;Paranormal;Yes
+31;male;Paranormal;Yes
+32;male;Paranormal;Yes
+33;male;Paranormal;Yes
+34;male;Paranormal;Yes
+35;male;Paranormal;Yes
+36;male;Paranormal;Yes
+37;male;Paranormal;Yes
+38;male;Paranormal;Yes
+39;male;Paranormal;Yes
+40;male;Paranormal;Yes
+41;male;Paranormal;Yes
+42;male;Paranormal;Yes
+43;male;Paranormal;Yes
+44;male;Paranormal;Yes
+45;male;Paranormal;Yes
+15;male;Historical fiction;Yes
+16;male;Historical fiction;Yes
+17;male;Historical fiction;Yes
+18;male;Historical fiction;Yes
+19;male;Historical fiction;Yes
+20;male;Historical fiction;Yes
+21;male;Historical fiction;Yes
+22;male;Historical fiction;Yes
+23;male;Historical fiction;Yes
+24;male;Historical fiction;Yes
+25;male;Historical fiction;Yes
+26;male;Historical fiction;Yes
+27;male;Historical fiction;Yes
+28;male;Historical fiction;Yes
+29;male;Historical fiction;Yes
+30;male;Historical fiction;Yes
+31;male;Historical fiction;Yes
+32;male;Historical fiction;Yes
+33;male;Historical fiction;Yes
+34;male;Historical fiction;Yes
+35;male;Historical fiction;Yes
+36;male;Historical fiction;Yes
+37;male;Historical fiction;Yes
+38;male;Historical fiction;Yes
+39;male;Historical fiction;Yes
+40;male;Historical fiction;Yes
+41;male;Historical fiction;Yes
+42;male;Historical fiction;Yes
+43;male;Historical fiction;Yes
+44;male;Historical fiction;Yes
+45;male;Historical fiction;Yes
+15;male;Science Fiction;Yes
+16;male;Science Fiction;Yes
+17;male;Science Fiction;Yes
+18;male;Science Fiction;Yes
+19;male;Science Fiction;Yes
+20;male;Science Fiction;Yes
+21;male;Science Fiction;Yes
+22;male;Science Fiction;Yes
+23;male;Science Fiction;Yes
+24;male;Science Fiction;Yes
+25;male;Science Fiction;Yes
+26;male;Science Fiction;Yes
+27;male;Science Fiction;Yes
+28;male;Science Fiction;Yes
+29;male;Science Fiction;Yes
+30;male;Science Fiction;Yes
+31;male;Science Fiction;Yes
+32;male;Science Fiction;Yes
+33;male;Science Fiction;Yes
+34;male;Science Fiction;Yes
+35;male;Science Fiction;Yes
+36;male;Science Fiction;Yes
+37;male;Science Fiction;Yes
+38;male;Science Fiction;Yes
+39;male;Science Fiction;Yes
+40;male;Science Fiction;Yes
+41;male;Science Fiction;Yes
+42;male;Science Fiction;Yes
+43;male;Science Fiction;Yes
+44;male;Science Fiction;Yes
+45;male;Science Fiction;Yes
+15;male;Memoir;Yes
+16;male;Memoir;Yes
+17;male;Memoir;Yes
+18;male;Memoir;Yes
+19;male;Memoir;Yes
+20;male;Memoir;Yes
+21;male;Memoir;Yes
+22;male;Memoir;Yes
+23;male;Memoir;Yes
+24;male;Memoir;Yes
+25;male;Memoir;Yes
+26;male;Memoir;Yes
+27;male;Memoir;Yes
+28;male;Memoir;Yes
+29;male;Memoir;Yes
+30;male;Memoir;Yes
+31;male;Memoir;Yes
+32;male;Memoir;Yes
+33;male;Memoir;Yes
+34;male;Memoir;Yes
+35;male;Memoir;Yes
+36;male;Memoir;Yes
+37;male;Memoir;Yes
+38;male;Memoir;Yes
+39;male;Memoir;Yes
+40;male;Memoir;Yes
+41;male;Memoir;Yes
+42;male;Memoir;Yes
+43;male;Memoir;Yes
+44;male;Memoir;Yes
+45;male;Memoir;Yes
+15;male;Cooking;Yes
+16;male;Cooking;Yes
+17;male;Cooking;Yes
+18;male;Cooking;Yes
+19;male;Cooking;Yes
+20;male;Cooking;Yes
+21;male;Cooking;Yes
+22;male;Cooking;Yes
+23;male;Cooking;Yes
+24;male;Cooking;Yes
+25;male;Cooking;Yes
+26;male;Cooking;Yes
+27;male;Cooking;Yes
+28;male;Cooking;Yes
+29;male;Cooking;Yes
+30;male;Cooking;Yes
+31;male;Cooking;Yes
+32;male;Cooking;Yes
+33;male;Cooking;Yes
+34;male;Cooking;Yes
+35;male;Cooking;Yes
+36;male;Cooking;Yes
+37;male;Cooking;Yes
+38;male;Cooking;Yes
+39;male;Cooking;Yes
+40;male;Cooking;Yes
+41;male;Cooking;Yes
+42;male;Cooking;Yes
+43;male;Cooking;Yes
+44;male;Cooking;Yes
+45;male;Cooking;Yes
+15;male;Art;Yes
+16;male;Art;Yes
+17;male;Art;Yes
+18;male;Art;Yes
+19;male;Art;Yes
+20;male;Art;Yes
+21;male;Art;Yes
+22;male;Art;Yes
+23;male;Art;Yes
+24;male;Art;Yes
+25;male;Art;Yes
+26;male;Art;Yes
+27;male;Art;Yes
+28;male;Art;Yes
+29;male;Art;Yes
+30;male;Art;Yes
+31;male;Art;Yes
+32;male;Art;Yes
+33;male;Art;Yes
+34;male;Art;Yes
+35;male;Art;Yes
+36;male;Art;Yes
+37;male;Art;Yes
+38;male;Art;Yes
+39;male;Art;Yes
+40;male;Art;Yes
+41;male;Art;Yes
+42;male;Art;Yes
+43;male;Art;Yes
+44;male;Art;Yes
+45;male;Art;Yes
+15;male;Self-help / Personal;Yes
+16;male;Self-help / Personal;Yes
+17;male;Self-help / Personal;Yes
+18;male;Self-help / Personal;Yes
+19;male;Self-help / Personal;Yes
+20;male;Self-help / Personal;Yes
+21;male;Self-help / Personal;Yes
+22;male;Self-help / Personal;Yes
+23;male;Self-help / Personal;Yes
+24;male;Self-help / Personal;Yes
+25;male;Self-help / Personal;Yes
+26;male;Self-help / Personal;Yes
+27;male;Self-help / Personal;Yes
+28;male;Self-help / Personal;Yes
+29;male;Self-help / Personal;Yes
+30;male;Self-help / Personal;Yes
+31;male;Self-help / Personal;Yes
+32;male;Self-help / Personal;Yes
+33;male;Self-help / Personal;Yes
+34;male;Self-help / Personal;Yes
+35;male;Self-help / Personal;Yes
+36;male;Self-help / Personal;Yes
+37;male;Self-help / Personal;Yes
+38;male;Self-help / Personal;Yes
+39;male;Self-help / Personal;Yes
+40;male;Self-help / Personal;Yes
+41;male;Self-help / Personal;Yes
+42;male;Self-help / Personal;Yes
+43;male;Self-help / Personal;Yes
+44;male;Self-help / Personal;Yes
+45;male;Self-help / Personal;Yes
+15;male;Development;Yes
+16;male;Development;Yes
+17;male;Development;Yes
+18;male;Development;Yes
+19;male;Development;Yes
+20;male;Development;Yes
+21;male;Development;Yes
+22;male;Development;Yes
+23;male;Development;Yes
+24;male;Development;Yes
+25;male;Development;Yes
+26;male;Development;Yes
+27;male;Development;Yes
+28;male;Development;Yes
+29;male;Development;Yes
+30;male;Development;Yes
+31;male;Development;Yes
+32;male;Development;Yes
+33;male;Development;Yes
+34;male;Development;Yes
+35;male;Development;Yes
+36;male;Development;Yes
+37;male;Development;Yes
+38;male;Development;Yes
+39;male;Development;Yes
+40;male;Development;Yes
+41;male;Development;Yes
+42;male;Development;Yes
+43;male;Development;Yes
+44;male;Development;Yes
+45;male;Development;Yes
+15;male;Motivational;Yes
+16;male;Motivational;Yes
+17;male;Motivational;Yes
+18;male;Motivational;Yes
+19;male;Motivational;Yes
+20;male;Motivational;Yes
+21;male;Motivational;Yes
+22;male;Motivational;Yes
+23;male;Motivational;Yes
+24;male;Motivational;Yes
+25;male;Motivational;Yes
+26;male;Motivational;Yes
+27;male;Motivational;Yes
+28;male;Motivational;Yes
+29;male;Motivational;Yes
+30;male;Motivational;Yes
+31;male;Motivational;Yes
+32;male;Motivational;Yes
+33;male;Motivational;Yes
+34;male;Motivational;Yes
+35;male;Motivational;Yes
+36;male;Motivational;Yes
+37;male;Motivational;Yes
+38;male;Motivational;Yes
+39;male;Motivational;Yes
+40;male;Motivational;Yes
+41;male;Motivational;Yes
+42;male;Motivational;Yes
+43;male;Motivational;Yes
+44;male;Motivational;Yes
+45;male;Motivational;Yes
+15;male;Health;Yes
+16;male;Health;Yes
+17;male;Health;Yes
+18;male;Health;Yes
+19;male;Health;Yes
+20;male;Health;Yes
+21;male;Health;Yes
+22;male;Health;Yes
+23;male;Health;Yes
+24;male;Health;Yes
+25;male;Health;Yes
+26;male;Health;Yes
+27;male;Health;Yes
+28;male;Health;Yes
+29;male;Health;Yes
+30;male;Health;Yes
+31;male;Health;Yes
+32;male;Health;Yes
+33;male;Health;Yes
+34;male;Health;Yes
+35;male;Health;Yes
+36;male;Health;Yes
+37;male;Health;Yes
+38;male;Health;Yes
+39;male;Health;Yes
+40;male;Health;Yes
+41;male;Health;Yes
+42;male;Health;Yes
+43;male;Health;Yes
+44;male;Health;Yes
+45;male;Health;Yes
+15;male;History;Yes
+16;male;History;Yes
+17;male;History;Yes
+18;male;History;Yes
+19;male;History;Yes
+20;male;History;Yes
+21;male;History;Yes
+22;male;History;Yes
+23;male;History;Yes
+24;male;History;Yes
+25;male;History;Yes
+26;male;History;Yes
+27;male;History;Yes
+28;male;History;Yes
+29;male;History;Yes
+30;male;History;Yes
+31;male;History;Yes
+32;male;History;Yes
+33;male;History;Yes
+34;male;History;Yes
+35;male;History;Yes
+36;male;History;Yes
+37;male;History;Yes
+38;male;History;Yes
+39;male;History;Yes
+40;male;History;Yes
+41;male;History;Yes
+42;male;History;Yes
+43;male;History;Yes
+44;male;History;Yes
+45;male;History;Yes
+15;male;Travel;Yes
+16;male;Travel;Yes
+17;male;Travel;Yes
+18;male;Travel;Yes
+19;male;Travel;Yes
+20;male;Travel;Yes
+21;male;Travel;Yes
+22;male;Travel;Yes
+23;male;Travel;Yes
+24;male;Travel;Yes
+25;male;Travel;Yes
+26;male;Travel;Yes
+27;male;Travel;Yes
+28;male;Travel;Yes
+29;male;Travel;Yes
+30;male;Travel;Yes
+31;male;Travel;Yes
+32;male;Travel;Yes
+33;male;Travel;Yes
+34;male;Travel;Yes
+35;male;Travel;Yes
+36;male;Travel;Yes
+37;male;Travel;Yes
+38;male;Travel;Yes
+39;male;Travel;Yes
+40;male;Travel;Yes
+41;male;Travel;Yes
+42;male;Travel;Yes
+43;male;Travel;Yes
+44;male;Travel;Yes
+45;male;Travel;Yes
+15;male;Guide / How-to;Yes
+16;male;Guide / How-to;Yes
+17;male;Guide / How-to;Yes
+18;male;Guide / How-to;Yes
+19;male;Guide / How-to;Yes
+20;male;Guide / How-to;Yes
+21;male;Guide / How-to;Yes
+22;male;Guide / How-to;Yes
+23;male;Guide / How-to;Yes
+24;male;Guide / How-to;Yes
+25;male;Guide / How-to;Yes
+26;male;Guide / How-to;Yes
+27;male;Guide / How-to;Yes
+28;male;Guide / How-to;Yes
+29;male;Guide / How-to;Yes
+30;male;Guide / How-to;Yes
+31;male;Guide / How-to;Yes
+32;male;Guide / How-to;Yes
+33;male;Guide / How-to;Yes
+34;male;Guide / How-to;Yes
+35;male;Guide / How-to;Yes
+36;male;Guide / How-to;Yes
+37;male;Guide / How-to;Yes
+38;male;Guide / How-to;Yes
+39;male;Guide / How-to;Yes
+40;male;Guide / How-to;Yes
+41;male;Guide / How-to;Yes
+42;male;Guide / How-to;Yes
+43;male;Guide / How-to;Yes
+44;male;Guide / How-to;Yes
+45;male;Guide / How-to;Yes
+15;male;Families & Relationships;Yes
+16;male;Families & Relationships;Yes
+17;male;Families & Relationships;Yes
+18;male;Families & Relationships;Yes
+19;male;Families & Relationships;Yes
+20;male;Families & Relationships;Yes
+21;male;Families & Relationships;Yes
+22;male;Families & Relationships;Yes
+23;male;Families & Relationships;Yes
+24;male;Families & Relationships;Yes
+25;male;Families & Relationships;Yes
+26;male;Families & Relationships;Yes
+27;male;Families & Relationships;Yes
+28;male;Families & Relationships;Yes
+29;male;Families & Relationships;Yes
+30;male;Families & Relationships;Yes
+31;male;Families & Relationships;Yes
+32;male;Families & Relationships;Yes
+33;male;Families & Relationships;Yes
+34;male;Families & Relationships;Yes
+35;male;Families & Relationships;Yes
+36;male;Families & Relationships;Yes
+37;male;Families & Relationships;Yes
+38;male;Families & Relationships;Yes
+39;male;Families & Relationships;Yes
+40;male;Families & Relationships;Yes
+41;male;Families & Relationships;Yes
+42;male;Families & Relationships;Yes
+43;male;Families & Relationships;Yes
+44;male;Families & Relationships;Yes
+45;male;Families & Relationships;Yes
+15;male;Humor;Yes
+16;male;Humor;Yes
+17;male;Humor;Yes
+18;male;Humor;Yes
+19;male;Humor;Yes
+20;male;Humor;Yes
+21;male;Humor;Yes
+22;male;Humor;Yes
+23;male;Humor;Yes
+24;male;Humor;Yes
+25;male;Humor;Yes
+26;male;Humor;Yes
+27;male;Humor;Yes
+28;male;Humor;Yes
+29;male;Humor;Yes
+30;male;Humor;Yes
+31;male;Humor;Yes
+32;male;Humor;Yes
+33;male;Humor;Yes
+34;male;Humor;Yes
+35;male;Humor;Yes
+36;male;Humor;Yes
+37;male;Humor;Yes
+38;male;Humor;Yes
+39;male;Humor;Yes
+40;male;Humor;Yes
+41;male;Humor;Yes
+42;male;Humor;Yes
+43;male;Humor;Yes
+44;male;Humor;Yes
+45;male;Humor;Yes
+15;male;Children’s;No
+16;male;Children’s;No
+17;male;Children’s;No
+18;male;Children’s;No
+19;male;Children’s;No
+20;male;Children’s;No
+21;male;Children’s;No
+22;male;Children’s;No
+23;male;Children’s;No
+24;male;Children’s;No
+25;male;Children’s;No
+26;male;Children’s;No
+27;male;Children’s;No
+28;male;Children’s;No
+29;male;Children’s;No
+30;male;Children’s;No
+31;male;Children’s;No
+32;male;Children’s;No
+33;male;Children’s;No
+34;male;Children’s;No
+35;male;Children’s;No
+36;male;Children’s;No
+37;male;Children’s;No
+38;male;Children’s;No
+39;male;Children’s;No
+40;male;Children’s;No
+41;male;Children’s;No
+42;male;Children’s;No
+43;male;Children’s;No
+44;male;Children’s;No
+45;male;Children’s;No
+15;female;Fantasy;Yes
+16;female;Fantasy;Yes
+17;female;Fantasy;Yes
+18;female;Fantasy;Yes
+19;female;Fantasy;Yes
+20;female;Fantasy;Yes
+21;female;Fantasy;Yes
+22;female;Fantasy;Yes
+23;female;Fantasy;Yes
+24;female;Fantasy;Yes
+25;female;Fantasy;Yes
+26;female;Fantasy;Yes
+27;female;Fantasy;Yes
+28;female;Fantasy;Yes
+29;female;Fantasy;Yes
+30;female;Fantasy;Yes
+31;female;Fantasy;Yes
+32;female;Fantasy;Yes
+33;female;Fantasy;Yes
+34;female;Fantasy;Yes
+35;female;Fantasy;Yes
+36;female;Fantasy;Yes
+37;female;Fantasy;Yes
+38;female;Fantasy;Yes
+39;female;Fantasy;Yes
+40;female;Fantasy;Yes
+41;female;Fantasy;Yes
+42;female;Fantasy;Yes
+43;female;Fantasy;Yes
+44;female;Fantasy;Yes
+45;female;Fantasy;Yes
+15;female;Adventure;Yes
+16;female;Adventure;Yes
+17;female;Adventure;Yes
+18;female;Adventure;Yes
+19;female;Adventure;Yes
+20;female;Adventure;Yes
+21;female;Adventure;Yes
+22;female;Adventure;Yes
+23;female;Adventure;Yes
+24;female;Adventure;Yes
+25;female;Adventure;Yes
+26;female;Adventure;Yes
+27;female;Adventure;Yes
+28;female;Adventure;Yes
+29;female;Adventure;Yes
+30;female;Adventure;Yes
+31;female;Adventure;Yes
+32;female;Adventure;Yes
+33;female;Adventure;Yes
+34;female;Adventure;Yes
+35;female;Adventure;Yes
+36;female;Adventure;Yes
+37;female;Adventure;Yes
+38;female;Adventure;Yes
+39;female;Adventure;Yes
+40;female;Adventure;Yes
+41;female;Adventure;Yes
+42;female;Adventure;Yes
+43;female;Adventure;Yes
+44;female;Adventure;Yes
+45;female;Adventure;Yes
+15;female;Romance;Yes
+16;female;Romance;Yes
+17;female;Romance;Yes
+18;female;Romance;Yes
+19;female;Romance;Yes
+20;female;Romance;Yes
+21;female;Romance;Yes
+22;female;Romance;Yes
+23;female;Romance;Yes
+24;female;Romance;Yes
+25;female;Romance;Yes
+26;female;Romance;Yes
+27;female;Romance;Yes
+28;female;Romance;Yes
+29;female;Romance;Yes
+30;female;Romance;Yes
+31;female;Romance;Yes
+32;female;Romance;Yes
+33;female;Romance;Yes
+34;female;Romance;Yes
+35;female;Romance;Yes
+36;female;Romance;Yes
+37;female;Romance;Yes
+38;female;Romance;Yes
+39;female;Romance;Yes
+40;female;Romance;Yes
+41;female;Romance;Yes
+42;female;Romance;Yes
+43;female;Romance;Yes
+44;female;Romance;Yes
+45;female;Romance;Yes
+15;female;Contemporary;Yes
+16;female;Contemporary;Yes
+17;female;Contemporary;Yes
+18;female;Contemporary;Yes
+19;female;Contemporary;Yes
+20;female;Contemporary;Yes
+21;female;Contemporary;Yes
+22;female;Contemporary;Yes
+23;female;Contemporary;Yes
+24;female;Contemporary;Yes
+25;female;Contemporary;Yes
+26;female;Contemporary;Yes
+27;female;Contemporary;Yes
+28;female;Contemporary;Yes
+29;female;Contemporary;Yes
+30;female;Contemporary;Yes
+31;female;Contemporary;Yes
+32;female;Contemporary;Yes
+33;female;Contemporary;Yes
+34;female;Contemporary;Yes
+35;female;Contemporary;Yes
+36;female;Contemporary;Yes
+37;female;Contemporary;Yes
+38;female;Contemporary;Yes
+39;female;Contemporary;Yes
+40;female;Contemporary;Yes
+41;female;Contemporary;Yes
+42;female;Contemporary;Yes
+43;female;Contemporary;Yes
+44;female;Contemporary;Yes
+45;female;Contemporary;Yes
+15;female;Dystopian;Yes
+16;female;Dystopian;Yes
+17;female;Dystopian;Yes
+18;female;Dystopian;Yes
+19;female;Dystopian;Yes
+20;female;Dystopian;Yes
+21;female;Dystopian;Yes
+22;female;Dystopian;Yes
+23;female;Dystopian;Yes
+24;female;Dystopian;Yes
+25;female;Dystopian;Yes
+26;female;Dystopian;Yes
+27;female;Dystopian;Yes
+28;female;Dystopian;Yes
+29;female;Dystopian;Yes
+30;female;Dystopian;Yes
+31;female;Dystopian;Yes
+32;female;Dystopian;Yes
+33;female;Dystopian;Yes
+34;female;Dystopian;Yes
+35;female;Dystopian;Yes
+36;female;Dystopian;Yes
+37;female;Dystopian;Yes
+38;female;Dystopian;Yes
+39;female;Dystopian;Yes
+40;female;Dystopian;Yes
+41;female;Dystopian;Yes
+42;female;Dystopian;Yes
+43;female;Dystopian;Yes
+44;female;Dystopian;Yes
+45;female;Dystopian;Yes
+15;female;Mystery;Yes
+16;female;Mystery;Yes
+17;female;Mystery;Yes
+18;female;Mystery;Yes
+19;female;Mystery;Yes
+20;female;Mystery;Yes
+21;female;Mystery;Yes
+22;female;Mystery;Yes
+23;female;Mystery;Yes
+24;female;Mystery;Yes
+25;female;Mystery;Yes
+26;female;Mystery;Yes
+27;female;Mystery;Yes
+28;female;Mystery;Yes
+29;female;Mystery;Yes
+30;female;Mystery;Yes
+31;female;Mystery;Yes
+32;female;Mystery;Yes
+33;female;Mystery;Yes
+34;female;Mystery;Yes
+35;female;Mystery;Yes
+36;female;Mystery;Yes
+37;female;Mystery;Yes
+38;female;Mystery;Yes
+39;female;Mystery;Yes
+40;female;Mystery;Yes
+41;female;Mystery;Yes
+42;female;Mystery;Yes
+43;female;Mystery;Yes
+44;female;Mystery;Yes
+45;female;Mystery;Yes
+15;female;Horror;Yes
+16;female;Horror;Yes
+17;female;Horror;Yes
+18;female;Horror;Yes
+19;female;Horror;Yes
+20;female;Horror;Yes
+21;female;Horror;Yes
+22;female;Horror;Yes
+23;female;Horror;Yes
+24;female;Horror;Yes
+25;female;Horror;Yes
+26;female;Horror;Yes
+27;female;Horror;Yes
+28;female;Horror;Yes
+29;female;Horror;Yes
+30;female;Horror;Yes
+31;female;Horror;Yes
+32;female;Horror;Yes
+33;female;Horror;Yes
+34;female;Horror;Yes
+35;female;Horror;Yes
+36;female;Horror;Yes
+37;female;Horror;Yes
+38;female;Horror;Yes
+39;female;Horror;Yes
+40;female;Horror;Yes
+41;female;Horror;Yes
+42;female;Horror;Yes
+43;female;Horror;Yes
+44;female;Horror;Yes
+45;female;Horror;Yes
+15;female;Thriller;Yes
+16;female;Thriller;Yes
+17;female;Thriller;Yes
+18;female;Thriller;Yes
+19;female;Thriller;Yes
+20;female;Thriller;Yes
+21;female;Thriller;Yes
+22;female;Thriller;Yes
+23;female;Thriller;Yes
+24;female;Thriller;Yes
+25;female;Thriller;Yes
+26;female;Thriller;Yes
+27;female;Thriller;Yes
+28;female;Thriller;Yes
+29;female;Thriller;Yes
+30;female;Thriller;Yes
+31;female;Thriller;Yes
+32;female;Thriller;Yes
+33;female;Thriller;Yes
+34;female;Thriller;Yes
+35;female;Thriller;Yes
+36;female;Thriller;Yes
+37;female;Thriller;Yes
+38;female;Thriller;Yes
+39;female;Thriller;Yes
+40;female;Thriller;Yes
+41;female;Thriller;Yes
+42;female;Thriller;Yes
+43;female;Thriller;Yes
+44;female;Thriller;Yes
+45;female;Thriller;Yes
+15;female;Paranormal;Yes
+16;female;Paranormal;Yes
+17;female;Paranormal;Yes
+18;female;Paranormal;Yes
+19;female;Paranormal;Yes
+20;female;Paranormal;Yes
+21;female;Paranormal;Yes
+22;female;Paranormal;Yes
+23;female;Paranormal;Yes
+24;female;Paranormal;Yes
+25;female;Paranormal;Yes
+26;female;Paranormal;Yes
+27;female;Paranormal;Yes
+28;female;Paranormal;Yes
+29;female;Paranormal;Yes
+30;female;Paranormal;Yes
+31;female;Paranormal;Yes
+32;female;Paranormal;Yes
+33;female;Paranormal;Yes
+34;female;Paranormal;Yes
+35;female;Paranormal;Yes
+36;female;Paranormal;Yes
+37;female;Paranormal;Yes
+38;female;Paranormal;Yes
+39;female;Paranormal;Yes
+40;female;Paranormal;Yes
+41;female;Paranormal;Yes
+42;female;Paranormal;Yes
+43;female;Paranormal;Yes
+44;female;Paranormal;Yes
+45;female;Paranormal;Yes
+15;female;Historical fiction;Yes
+16;female;Historical fiction;Yes
+17;female;Historical fiction;Yes
+18;female;Historical fiction;Yes
+19;female;Historical fiction;Yes
+20;female;Historical fiction;Yes
+21;female;Historical fiction;Yes
+22;female;Historical fiction;Yes
+23;female;Historical fiction;Yes
+24;female;Historical fiction;Yes
+25;female;Historical fiction;Yes
+26;female;Historical fiction;Yes
+27;female;Historical fiction;Yes
+28;female;Historical fiction;Yes
+29;female;Historical fiction;Yes
+30;female;Historical fiction;Yes
+31;female;Historical fiction;Yes
+32;female;Historical fiction;Yes
+33;female;Historical fiction;Yes
+34;female;Historical fiction;Yes
+35;female;Historical fiction;Yes
+36;female;Historical fiction;Yes
+37;female;Historical fiction;Yes
+38;female;Historical fiction;Yes
+39;female;Historical fiction;Yes
+40;female;Historical fiction;Yes
+41;female;Historical fiction;Yes
+42;female;Historical fiction;Yes
+43;female;Historical fiction;Yes
+44;female;Historical fiction;Yes
+45;female;Historical fiction;Yes
+15;female;Science Fiction;Yes
+16;female;Science Fiction;Yes
+17;female;Science Fiction;Yes
+18;female;Science Fiction;Yes
+19;female;Science Fiction;Yes
+20;female;Science Fiction;Yes
+21;female;Science Fiction;Yes
+22;female;Science Fiction;Yes
+23;female;Science Fiction;Yes
+24;female;Science Fiction;Yes
+25;female;Science Fiction;Yes
+26;female;Science Fiction;Yes
+27;female;Science Fiction;Yes
+28;female;Science Fiction;Yes
+29;female;Science Fiction;Yes
+30;female;Science Fiction;Yes
+31;female;Science Fiction;Yes
+32;female;Science Fiction;Yes
+33;female;Science Fiction;Yes
+34;female;Science Fiction;Yes
+35;female;Science Fiction;Yes
+36;female;Science Fiction;Yes
+37;female;Science Fiction;Yes
+38;female;Science Fiction;Yes
+39;female;Science Fiction;Yes
+40;female;Science Fiction;Yes
+41;female;Science Fiction;Yes
+42;female;Science Fiction;Yes
+43;female;Science Fiction;Yes
+44;female;Science Fiction;Yes
+45;female;Science Fiction;Yes
+15;female;Memoir;Yes
+16;female;Memoir;Yes
+17;female;Memoir;Yes
+18;female;Memoir;Yes
+19;female;Memoir;Yes
+20;female;Memoir;Yes
+21;female;Memoir;Yes
+22;female;Memoir;Yes
+23;female;Memoir;Yes
+24;female;Memoir;Yes
+25;female;Memoir;Yes
+26;female;Memoir;Yes
+27;female;Memoir;Yes
+28;female;Memoir;Yes
+29;female;Memoir;Yes
+30;female;Memoir;Yes
+31;female;Memoir;Yes
+32;female;Memoir;Yes
+33;female;Memoir;Yes
+34;female;Memoir;Yes
+35;female;Memoir;Yes
+36;female;Memoir;Yes
+37;female;Memoir;Yes
+38;female;Memoir;Yes
+39;female;Memoir;Yes
+40;female;Memoir;Yes
+41;female;Memoir;Yes
+42;female;Memoir;Yes
+43;female;Memoir;Yes
+44;female;Memoir;Yes
+45;female;Memoir;Yes
+15;female;Cooking;Yes
+16;female;Cooking;Yes
+17;female;Cooking;Yes
+18;female;Cooking;Yes
+19;female;Cooking;Yes
+20;female;Cooking;Yes
+21;female;Cooking;Yes
+22;female;Cooking;Yes
+23;female;Cooking;Yes
+24;female;Cooking;Yes
+25;female;Cooking;Yes
+26;female;Cooking;Yes
+27;female;Cooking;Yes
+28;female;Cooking;Yes
+29;female;Cooking;Yes
+30;female;Cooking;Yes
+31;female;Cooking;Yes
+32;female;Cooking;Yes
+33;female;Cooking;Yes
+34;female;Cooking;Yes
+35;female;Cooking;Yes
+36;female;Cooking;Yes
+37;female;Cooking;Yes
+38;female;Cooking;Yes
+39;female;Cooking;Yes
+40;female;Cooking;Yes
+41;female;Cooking;Yes
+42;female;Cooking;Yes
+43;female;Cooking;Yes
+44;female;Cooking;Yes
+45;female;Cooking;Yes
+15;female;Art;Yes
+16;female;Art;Yes
+17;female;Art;Yes
+18;female;Art;Yes
+19;female;Art;Yes
+20;female;Art;Yes
+21;female;Art;Yes
+22;female;Art;Yes
+23;female;Art;Yes
+24;female;Art;Yes
+25;female;Art;Yes
+26;female;Art;Yes
+27;female;Art;Yes
+28;female;Art;Yes
+29;female;Art;Yes
+30;female;Art;Yes
+31;female;Art;Yes
+32;female;Art;Yes
+33;female;Art;Yes
+34;female;Art;Yes
+35;female;Art;Yes
+36;female;Art;Yes
+37;female;Art;Yes
+38;female;Art;Yes
+39;female;Art;Yes
+40;female;Art;Yes
+41;female;Art;Yes
+42;female;Art;Yes
+43;female;Art;Yes
+44;female;Art;Yes
+45;female;Art;Yes
+15;female;Self-help / Personal;Yes
+16;female;Self-help / Personal;Yes
+17;female;Self-help / Personal;Yes
+18;female;Self-help / Personal;Yes
+19;female;Self-help / Personal;Yes
+20;female;Self-help / Personal;Yes
+21;female;Self-help / Personal;Yes
+22;female;Self-help / Personal;Yes
+23;female;Self-help / Personal;Yes
+24;female;Self-help / Personal;Yes
+25;female;Self-help / Personal;Yes
+26;female;Self-help / Personal;Yes
+27;female;Self-help / Personal;Yes
+28;female;Self-help / Personal;Yes
+29;female;Self-help / Personal;Yes
+30;female;Self-help / Personal;Yes
+31;female;Self-help / Personal;Yes
+32;female;Self-help / Personal;Yes
+33;female;Self-help / Personal;Yes
+34;female;Self-help / Personal;Yes
+35;female;Self-help / Personal;Yes
+36;female;Self-help / Personal;Yes
+37;female;Self-help / Personal;Yes
+38;female;Self-help / Personal;Yes
+39;female;Self-help / Personal;Yes
+40;female;Self-help / Personal;Yes
+41;female;Self-help / Personal;Yes
+42;female;Self-help / Personal;Yes
+43;female;Self-help / Personal;Yes
+44;female;Self-help / Personal;Yes
+45;female;Self-help / Personal;Yes
+15;female;Development;Yes
+16;female;Development;Yes
+17;female;Development;Yes
+18;female;Development;Yes
+19;female;Development;Yes
+20;female;Development;Yes
+21;female;Development;Yes
+22;female;Development;Yes
+23;female;Development;Yes
+24;female;Development;Yes
+25;female;Development;Yes
+26;female;Development;Yes
+27;female;Development;Yes
+28;female;Development;Yes
+29;female;Development;Yes
+30;female;Development;Yes
+31;female;Development;Yes
+32;female;Development;Yes
+33;female;Development;Yes
+34;female;Development;Yes
+35;female;Development;Yes
+36;female;Development;Yes
+37;female;Development;Yes
+38;female;Development;Yes
+39;female;Development;Yes
+40;female;Development;Yes
+41;female;Development;Yes
+42;female;Development;Yes
+43;female;Development;Yes
+44;female;Development;Yes
+45;female;Development;Yes
+15;female;Motivational;Yes
+16;female;Motivational;Yes
+17;female;Motivational;Yes
+18;female;Motivational;Yes
+19;female;Motivational;Yes
+20;female;Motivational;Yes
+21;female;Motivational;Yes
+22;female;Motivational;Yes
+23;female;Motivational;Yes
+24;female;Motivational;Yes
+25;female;Motivational;Yes
+26;female;Motivational;Yes
+27;female;Motivational;Yes
+28;female;Motivational;Yes
+29;female;Motivational;Yes
+30;female;Motivational;Yes
+31;female;Motivational;Yes
+32;female;Motivational;Yes
+33;female;Motivational;Yes
+34;female;Motivational;Yes
+35;female;Motivational;Yes
+36;female;Motivational;Yes
+37;female;Motivational;Yes
+38;female;Motivational;Yes
+39;female;Motivational;Yes
+40;female;Motivational;Yes
+41;female;Motivational;Yes
+42;female;Motivational;Yes
+43;female;Motivational;Yes
+44;female;Motivational;Yes
+45;female;Motivational;Yes
+15;female;Health;Yes
+16;female;Health;Yes
+17;female;Health;Yes
+18;female;Health;Yes
+19;female;Health;Yes
+20;female;Health;Yes
+21;female;Health;Yes
+22;female;Health;Yes
+23;female;Health;Yes
+24;female;Health;Yes
+25;female;Health;Yes
+26;female;Health;Yes
+27;female;Health;Yes
+28;female;Health;Yes
+29;female;Health;Yes
+30;female;Health;Yes
+31;female;Health;Yes
+32;female;Health;Yes
+33;female;Health;Yes
+34;female;Health;Yes
+35;female;Health;Yes
+36;female;Health;Yes
+37;female;Health;Yes
+38;female;Health;Yes
+39;female;Health;Yes
+40;female;Health;Yes
+41;female;Health;Yes
+42;female;Health;Yes
+43;female;Health;Yes
+44;female;Health;Yes
+45;female;Health;Yes
+15;female;History;Yes
+16;female;History;Yes
+17;female;History;Yes
+18;female;History;Yes
+19;female;History;Yes
+20;female;History;Yes
+21;female;History;Yes
+22;female;History;Yes
+23;female;History;Yes
+24;female;History;Yes
+25;female;History;Yes
+26;female;History;Yes
+27;female;History;Yes
+28;female;History;Yes
+29;female;History;Yes
+30;female;History;Yes
+31;female;History;Yes
+32;female;History;Yes
+33;female;History;Yes
+34;female;History;Yes
+35;female;History;Yes
+36;female;History;Yes
+37;female;History;Yes
+38;female;History;Yes
+39;female;History;Yes
+40;female;History;Yes
+41;female;History;Yes
+42;female;History;Yes
+43;female;History;Yes
+44;female;History;Yes
+45;female;History;Yes
+15;female;Travel;Yes
+16;female;Travel;Yes
+17;female;Travel;Yes
+18;female;Travel;Yes
+19;female;Travel;Yes
+20;female;Travel;Yes
+21;female;Travel;Yes
+22;female;Travel;Yes
+23;female;Travel;Yes
+24;female;Travel;Yes
+25;female;Travel;Yes
+26;female;Travel;Yes
+27;female;Travel;Yes
+28;female;Travel;Yes
+29;female;Travel;Yes
+30;female;Travel;Yes
+31;female;Travel;Yes
+32;female;Travel;Yes
+33;female;Travel;Yes
+34;female;Travel;Yes
+35;female;Travel;Yes
+36;female;Travel;Yes
+37;female;Travel;Yes
+38;female;Travel;Yes
+39;female;Travel;Yes
+40;female;Travel;Yes
+41;female;Travel;Yes
+42;female;Travel;Yes
+43;female;Travel;Yes
+44;female;Travel;Yes
+45;female;Travel;Yes
+15;female;Guide / How-to;Yes
+16;female;Guide / How-to;Yes
+17;female;Guide / How-to;Yes
+18;female;Guide / How-to;Yes
+19;female;Guide / How-to;Yes
+20;female;Guide / How-to;Yes
+21;female;Guide / How-to;Yes
+22;female;Guide / How-to;Yes
+23;female;Guide / How-to;Yes
+24;female;Guide / How-to;Yes
+25;female;Guide / How-to;Yes
+26;female;Guide / How-to;Yes
+27;female;Guide / How-to;Yes
+28;female;Guide / How-to;Yes
+29;female;Guide / How-to;Yes
+30;female;Guide / How-to;Yes
+31;female;Guide / How-to;Yes
+32;female;Guide / How-to;Yes
+33;female;Guide / How-to;Yes
+34;female;Guide / How-to;Yes
+35;female;Guide / How-to;Yes
+36;female;Guide / How-to;Yes
+37;female;Guide / How-to;Yes
+38;female;Guide / How-to;Yes
+39;female;Guide / How-to;Yes
+40;female;Guide / How-to;Yes
+41;female;Guide / How-to;Yes
+42;female;Guide / How-to;Yes
+43;female;Guide / How-to;Yes
+44;female;Guide / How-to;Yes
+45;female;Guide / How-to;Yes
+15;female;Families & Relationships;Yes
+16;female;Families & Relationships;Yes
+17;female;Families & Relationships;Yes
+18;female;Families & Relationships;Yes
+19;female;Families & Relationships;Yes
+20;female;Families & Relationships;Yes
+21;female;Families & Relationships;Yes
+22;female;Families & Relationships;Yes
+23;female;Families & Relationships;Yes
+24;female;Families & Relationships;Yes
+25;female;Families & Relationships;Yes
+26;female;Families & Relationships;Yes
+27;female;Families & Relationships;Yes
+28;female;Families & Relationships;Yes
+29;female;Families & Relationships;Yes
+30;female;Families & Relationships;Yes
+31;female;Families & Relationships;Yes
+32;female;Families & Relationships;Yes
+33;female;Families & Relationships;Yes
+34;female;Families & Relationships;Yes
+35;female;Families & Relationships;Yes
+36;female;Families & Relationships;Yes
+37;female;Families & Relationships;Yes
+38;female;Families & Relationships;Yes
+39;female;Families & Relationships;Yes
+40;female;Families & Relationships;Yes
+41;female;Families & Relationships;Yes
+42;female;Families & Relationships;Yes
+43;female;Families & Relationships;Yes
+44;female;Families & Relationships;Yes
+45;female;Families & Relationships;Yes
+15;female;Humor;Yes
+16;female;Humor;Yes
+17;female;Humor;Yes
+18;female;Humor;Yes
+19;female;Humor;Yes
+20;female;Humor;Yes
+21;female;Humor;Yes
+22;female;Humor;Yes
+23;female;Humor;Yes
+24;female;Humor;Yes
+25;female;Humor;Yes
+26;female;Humor;Yes
+27;female;Humor;Yes
+28;female;Humor;Yes
+29;female;Humor;Yes
+30;female;Humor;Yes
+31;female;Humor;Yes
+32;female;Humor;Yes
+33;female;Humor;Yes
+34;female;Humor;Yes
+35;female;Humor;Yes
+36;female;Humor;Yes
+37;female;Humor;Yes
+38;female;Humor;Yes
+39;female;Humor;Yes
+40;female;Humor;Yes
+41;female;Humor;Yes
+42;female;Humor;Yes
+43;female;Humor;Yes
+44;female;Humor;Yes
+45;female;Humor;Yes
+15;female;Children’s;No
+16;female;Children’s;No
+17;female;Children’s;No
+18;female;Children’s;No
+19;female;Children’s;No
+20;female;Children’s;No
+21;female;Children’s;No
+22;female;Children’s;No
+23;female;Children’s;No
+24;female;Children’s;No
+25;female;Children’s;No
+26;female;Children’s;No
+27;female;Children’s;No
+28;female;Children’s;No
+29;female;Children’s;No
+30;female;Children’s;No
+31;female;Children’s;No
+32;female;Children’s;No
+33;female;Children’s;No
+34;female;Children’s;No
+35;female;Children’s;No
+36;female;Children’s;No
+37;female;Children’s;No
+38;female;Children’s;No
+39;female;Children’s;No
+40;female;Children’s;No
+41;female;Children’s;No
+42;female;Children’s;No
+43;female;Children’s;No
+44;female;Children’s;No
+45;female;Children’s;No
+46;male;Fantasy;No
+47;male;Fantasy;No
+48;male;Fantasy;No
+49;male;Fantasy;No
+50;male;Fantasy;No
+51;male;Fantasy;No
+52;male;Fantasy;No
+53;male;Fantasy;No
+54;male;Fantasy;No
+55;male;Fantasy;No
+46;male;Adventure;No
+47;male;Adventure;No
+48;male;Adventure;No
+49;male;Adventure;No
+50;male;Adventure;No
+51;male;Adventure;No
+52;male;Adventure;No
+53;male;Adventure;No
+54;male;Adventure;No
+55;male;Adventure;No
+46;male;Romance;No
+47;male;Romance;No
+48;male;Romance;No
+49;male;Romance;No
+50;male;Romance;No
+51;male;Romance;No
+52;male;Romance;No
+53;male;Romance;No
+54;male;Romance;No
+55;male;Romance;No
+46;male;Contemporary;Yes
+47;male;Contemporary;Yes
+48;male;Contemporary;Yes
+49;male;Contemporary;Yes
+50;male;Contemporary;Yes
+51;male;Contemporary;Yes
+52;male;Contemporary;Yes
+53;male;Contemporary;Yes
+54;male;Contemporary;Yes
+55;male;Contemporary;Yes
+46;male;Dystopian;Yes
+47;male;Dystopian;Yes
+48;male;Dystopian;Yes
+49;male;Dystopian;Yes
+50;male;Dystopian;Yes
+51;male;Dystopian;Yes
+52;male;Dystopian;Yes
+53;male;Dystopian;Yes
+54;male;Dystopian;Yes
+55;male;Dystopian;Yes
+46;male;Mystery;Yes
+47;male;Mystery;Yes
+48;male;Mystery;Yes
+49;male;Mystery;Yes
+50;male;Mystery;Yes
+51;male;Mystery;Yes
+52;male;Mystery;Yes
+53;male;Mystery;Yes
+54;male;Mystery;Yes
+55;male;Mystery;Yes
+46;male;Horror;No
+47;male;Horror;No
+48;male;Horror;No
+49;male;Horror;No
+50;male;Horror;No
+51;male;Horror;No
+52;male;Horror;No
+53;male;Horror;No
+54;male;Horror;No
+55;male;Horror;No
+46;male;Thriller;No
+47;male;Thriller;No
+48;male;Thriller;No
+49;male;Thriller;No
+50;male;Thriller;No
+51;male;Thriller;No
+52;male;Thriller;No
+53;male;Thriller;No
+54;male;Thriller;No
+55;male;Thriller;No
+46;male;Paranormal;Yes
+47;male;Paranormal;Yes
+48;male;Paranormal;Yes
+49;male;Paranormal;Yes
+50;male;Paranormal;Yes
+51;male;Paranormal;Yes
+52;male;Paranormal;Yes
+53;male;Paranormal;Yes
+54;male;Paranormal;Yes
+55;male;Paranormal;Yes
+46;male;Historical fiction;Yes
+47;male;Historical fiction;Yes
+48;male;Historical fiction;Yes
+49;male;Historical fiction;Yes
+50;male;Historical fiction;Yes
+51;male;Historical fiction;Yes
+52;male;Historical fiction;Yes
+53;male;Historical fiction;Yes
+54;male;Historical fiction;Yes
+55;male;Historical fiction;Yes
+46;male;Science Fiction;No
+47;male;Science Fiction;No
+48;male;Science Fiction;No
+49;male;Science Fiction;No
+50;male;Science Fiction;No
+51;male;Science Fiction;No
+52;male;Science Fiction;No
+53;male;Science Fiction;No
+54;male;Science Fiction;No
+55;male;Science Fiction;No
+46;male;Memoir;Yes
+47;male;Memoir;Yes
+48;male;Memoir;Yes
+49;male;Memoir;Yes
+50;male;Memoir;Yes
+51;male;Memoir;Yes
+52;male;Memoir;Yes
+53;male;Memoir;Yes
+54;male;Memoir;Yes
+55;male;Memoir;Yes
+46;male;Cooking;No
+47;male;Cooking;No
+48;male;Cooking;No
+49;male;Cooking;No
+50;male;Cooking;No
+51;male;Cooking;No
+52;male;Cooking;No
+53;male;Cooking;No
+54;male;Cooking;No
+55;male;Cooking;No
+46;male;Art;No
+47;male;Art;No
+48;male;Art;No
+49;male;Art;No
+50;male;Art;No
+51;male;Art;No
+52;male;Art;No
+53;male;Art;No
+54;male;Art;No
+55;male;Art;No
+46;male;Self-help / Personal;No
+47;male;Self-help / Personal;No
+48;male;Self-help / Personal;No
+49;male;Self-help / Personal;No
+50;male;Self-help / Personal;No
+51;male;Self-help / Personal;No
+52;male;Self-help / Personal;No
+53;male;Self-help / Personal;No
+54;male;Self-help / Personal;No
+55;male;Self-help / Personal;No
+46;male;Development;No
+47;male;Development;No
+48;male;Development;No
+49;male;Development;No
+50;male;Development;No
+51;male;Development;No
+52;male;Development;No
+53;male;Development;No
+54;male;Development;No
+55;male;Development;No
+46;male;Motivational;Yes
+47;male;Motivational;Yes
+48;male;Motivational;Yes
+49;male;Motivational;Yes
+50;male;Motivational;Yes
+51;male;Motivational;Yes
+52;male;Motivational;Yes
+53;male;Motivational;Yes
+54;male;Motivational;Yes
+55;male;Motivational;Yes
+46;male;Health;Yes
+47;male;Health;Yes
+48;male;Health;Yes
+49;male;Health;Yes
+50;male;Health;Yes
+51;male;Health;Yes
+52;male;Health;Yes
+53;male;Health;Yes
+54;male;Health;Yes
+55;male;Health;Yes
+46;male;History;Yes
+47;male;History;Yes
+48;male;History;Yes
+49;male;History;Yes
+50;male;History;Yes
+51;male;History;Yes
+52;male;History;Yes
+53;male;History;Yes
+54;male;History;Yes
+55;male;History;Yes
+46;male;Travel;Yes
+47;male;Travel;Yes
+48;male;Travel;Yes
+49;male;Travel;Yes
+50;male;Travel;Yes
+51;male;Travel;Yes
+52;male;Travel;Yes
+53;male;Travel;Yes
+54;male;Travel;Yes
+55;male;Travel;Yes
+46;male;Guide / How-to;Yes
+47;male;Guide / How-to;Yes
+48;male;Guide / How-to;Yes
+49;male;Guide / How-to;Yes
+50;male;Guide / How-to;Yes
+51;male;Guide / How-to;Yes
+52;male;Guide / How-to;Yes
+53;male;Guide / How-to;Yes
+54;male;Guide / How-to;Yes
+55;male;Guide / How-to;Yes
+46;male;Families & Relationships;Yes
+47;male;Families & Relationships;Yes
+48;male;Families & Relationships;Yes
+49;male;Families & Relationships;Yes
+50;male;Families & Relationships;Yes
+51;male;Families & Relationships;Yes
+52;male;Families & Relationships;Yes
+53;male;Families & Relationships;Yes
+54;male;Families & Relationships;Yes
+55;male;Families & Relationships;Yes
+46;male;Humor;Yes
+47;male;Humor;Yes
+48;male;Humor;Yes
+49;male;Humor;Yes
+50;male;Humor;Yes
+51;male;Humor;Yes
+52;male;Humor;Yes
+53;male;Humor;Yes
+54;male;Humor;Yes
+55;male;Humor;Yes
+46;male;Children’s;No
+47;male;Children’s;No
+48;male;Children’s;No
+49;male;Children’s;No
+50;male;Children’s;No
+51;male;Children’s;No
+52;male;Children’s;No
+53;male;Children’s;No
+54;male;Children’s;No
+55;male;Children’s;No
+46;female;Fantasy;No
+47;female;Fantasy;No
+48;female;Fantasy;No
+49;female;Fantasy;No
+50;female;Fantasy;No
+51;female;Fantasy;No
+52;female;Fantasy;No
+53;female;Fantasy;No
+54;female;Fantasy;No
+55;female;Fantasy;No
+46;female;Adventure;No
+47;female;Adventure;No
+48;female;Adventure;No
+49;female;Adventure;No
+50;female;Adventure;No
+51;female;Adventure;No
+52;female;Adventure;No
+53;female;Adventure;No
+54;female;Adventure;No
+55;female;Adventure;No
+46;female;Romance;No
+47;female;Romance;No
+48;female;Romance;No
+49;female;Romance;No
+50;female;Romance;No
+51;female;Romance;No
+52;female;Romance;No
+53;female;Romance;No
+54;female;Romance;No
+55;female;Romance;No
+46;female;Contemporary;Yes
+47;female;Contemporary;Yes
+48;female;Contemporary;Yes
+49;female;Contemporary;Yes
+50;female;Contemporary;Yes
+51;female;Contemporary;Yes
+52;female;Contemporary;Yes
+53;female;Contemporary;Yes
+54;female;Contemporary;Yes
+55;female;Contemporary;Yes
+46;female;Dystopian;Yes
+47;female;Dystopian;Yes
+48;female;Dystopian;Yes
+49;female;Dystopian;Yes
+50;female;Dystopian;Yes
+51;female;Dystopian;Yes
+52;female;Dystopian;Yes
+53;female;Dystopian;Yes
+54;female;Dystopian;Yes
+55;female;Dystopian;Yes
+46;female;Mystery;Yes
+47;female;Mystery;Yes
+48;female;Mystery;Yes
+49;female;Mystery;Yes
+50;female;Mystery;Yes
+51;female;Mystery;Yes
+52;female;Mystery;Yes
+53;female;Mystery;Yes
+54;female;Mystery;Yes
+55;female;Mystery;Yes
+46;female;Horror;No
+47;female;Horror;No
+48;female;Horror;No
+49;female;Horror;No
+50;female;Horror;No
+51;female;Horror;No
+52;female;Horror;No
+53;female;Horror;No
+54;female;Horror;No
+55;female;Horror;No
+46;female;Thriller;No
+47;female;Thriller;No
+48;female;Thriller;No
+49;female;Thriller;No
+50;female;Thriller;No
+51;female;Thriller;No
+52;female;Thriller;No
+53;female;Thriller;No
+54;female;Thriller;No
+55;female;Thriller;No
+46;female;Paranormal;Yes
+47;female;Paranormal;Yes
+48;female;Paranormal;Yes
+49;female;Paranormal;Yes
+50;female;Paranormal;Yes
+51;female;Paranormal;Yes
+52;female;Paranormal;Yes
+53;female;Paranormal;Yes
+54;female;Paranormal;Yes
+55;female;Paranormal;Yes
+46;female;Historical fiction;Yes
+47;female;Historical fiction;Yes
+48;female;Historical fiction;Yes
+49;female;Historical fiction;Yes
+50;female;Historical fiction;Yes
+51;female;Historical fiction;Yes
+52;female;Historical fiction;Yes
+53;female;Historical fiction;Yes
+54;female;Historical fiction;Yes
+55;female;Historical fiction;Yes
+46;female;Science Fiction;No
+47;female;Science Fiction;No
+48;female;Science Fiction;No
+49;female;Science Fiction;No
+50;female;Science Fiction;No
+51;female;Science Fiction;No
+52;female;Science Fiction;No
+53;female;Science Fiction;No
+54;female;Science Fiction;No
+55;female;Science Fiction;No
+46;female;Memoir;Yes
+47;female;Memoir;Yes
+48;female;Memoir;Yes
+49;female;Memoir;Yes
+50;female;Memoir;Yes
+51;female;Memoir;Yes
+52;female;Memoir;Yes
+53;female;Memoir;Yes
+54;female;Memoir;Yes
+55;female;Memoir;Yes
+46;female;Cooking;Yes
+47;female;Cooking;Yes
+48;female;Cooking;Yes
+49;female;Cooking;Yes
+50;female;Cooking;Yes
+51;female;Cooking;Yes
+52;female;Cooking;Yes
+53;female;Cooking;Yes
+54;female;Cooking;Yes
+55;female;Cooking;Yes
+46;female;Art;No
+47;female;Art;No
+48;female;Art;No
+49;female;Art;No
+50;female;Art;No
+51;female;Art;No
+52;female;Art;No
+53;female;Art;No
+54;female;Art;No
+55;female;Art;No
+46;female;Self-help / Personal;No
+47;female;Self-help / Personal;No
+48;female;Self-help / Personal;No
+49;female;Self-help / Personal;No
+50;female;Self-help / Personal;No
+51;female;Self-help / Personal;No
+52;female;Self-help / Personal;No
+53;female;Self-help / Personal;No
+54;female;Self-help / Personal;No
+55;female;Self-help / Personal;No
+46;female;Development;No
+47;female;Development;No
+48;female;Development;No
+49;female;Development;No
+50;female;Development;No
+51;female;Development;No
+52;female;Development;No
+53;female;Development;No
+54;female;Development;No
+55;female;Development;No
+46;female;Motivational;Yes
+47;female;Motivational;Yes
+48;female;Motivational;Yes
+49;female;Motivational;Yes
+50;female;Motivational;Yes
+51;female;Motivational;Yes
+52;female;Motivational;Yes
+53;female;Motivational;Yes
+54;female;Motivational;Yes
+55;female;Motivational;Yes
+46;female;Health;Yes
+47;female;Health;Yes
+48;female;Health;Yes
+49;female;Health;Yes
+50;female;Health;Yes
+51;female;Health;Yes
+52;female;Health;Yes
+53;female;Health;Yes
+54;female;Health;Yes
+55;female;Health;Yes
+46;female;History;Yes
+47;female;History;Yes
+48;female;History;Yes
+49;female;History;Yes
+50;female;History;Yes
+51;female;History;Yes
+52;female;History;Yes
+53;female;History;Yes
+54;female;History;Yes
+55;female;History;Yes
+46;female;Travel;Yes
+47;female;Travel;Yes
+48;female;Travel;Yes
+49;female;Travel;Yes
+50;female;Travel;Yes
+51;female;Travel;Yes
+52;female;Travel;Yes
+53;female;Travel;Yes
+54;female;Travel;Yes
+55;female;Travel;Yes
+46;female;Guide / How-to;Yes
+47;female;Guide / How-to;Yes
+48;female;Guide / How-to;Yes
+49;female;Guide / How-to;Yes
+50;female;Guide / How-to;Yes
+51;female;Guide / How-to;Yes
+52;female;Guide / How-to;Yes
+53;female;Guide / How-to;Yes
+54;female;Guide / How-to;Yes
+55;female;Guide / How-to;Yes
+46;female;Families & Relationships;Yes
+47;female;Families & Relationships;Yes
+48;female;Families & Relationships;Yes
+49;female;Families & Relationships;Yes
+50;female;Families & Relationships;Yes
+51;female;Families & Relationships;Yes
+52;female;Families & Relationships;Yes
+53;female;Families & Relationships;Yes
+54;female;Families & Relationships;Yes
+55;female;Families & Relationships;Yes
+46;female;Humor;Yes
+47;female;Humor;Yes
+48;female;Humor;Yes
+49;female;Humor;Yes
+50;female;Humor;Yes
+51;female;Humor;Yes
+52;female;Humor;Yes
+53;female;Humor;Yes
+54;female;Humor;Yes
+55;female;Humor;Yes
+46;female;Children’s;No
+47;female;Children’s;No
+48;female;Children’s;No
+49;female;Children’s;No
+50;female;Children’s;No
+51;female;Children’s;No
+52;female;Children’s;No
+53;female;Children’s;No
+54;female;Children’s;No
+55;female;Children’s;No
